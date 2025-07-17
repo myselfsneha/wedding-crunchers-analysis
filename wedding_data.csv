@@ -1,0 +1,21 @@
+﻿date,season,city,state,country,estimated_cost,guest_count
+10-12-2023,winter,mumbai,maharashtra,india,1200000,250
+15-05-2022,summer,new york,new york,usa,35000,100
+20-10-2023,autumn,jaipur,rajasthan,india,900000,180
+12-03-2024,spring,london,greater london,uk,25000,80
+26-01-2023,winter,delhi,delhi,india,110000,300
+18-11-2023,autumn,los angeles,california,usa,45000,120
+05-06-2022,summer winter,bengaluru,karnataka,india,950000,200
+14-02-2023,summer,paris,ile-de-france,france,40000,90
+10-07-2024,spring,goa,goa,india,850000,170
+25-04-2023,autumn,sydney,new south wales,australia,30000,60
+30-09-2023,winter,udaipur,rajasthan,india,1300000,220
+22-12-2022,summer,chicago,illinois,usa,38000,110
+15-08-2024,spring,hyderabad,telangana,india,920000,190
+05-03-2023,autumn,toronto,ontario,canada,28000,75
+05-10-2023,winter,pune,maharashtra,india,750000,160
+01-01-2022,summer,dubai,dubai,uae,60000,130
+21-05-2024,autumn,kolkata,west bengal,india,880000,210
+10-11-2023,winter,san fransico,california,usa,47000,125
+18-06-2022,summer,chandigarh,chandigarh,india,820000,185
+02-04-2023,spring,berlin,berlin,germany,32000,70
